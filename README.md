@@ -1,6 +1,11 @@
 # ShConfig
 Read sh config from C#
 
+## Install
+With nuget package manager:
+```nuget
+Install-Package ShConfig -Version 1.0.0
+```
 ## Examples
 ### Write data
 ```csharp
