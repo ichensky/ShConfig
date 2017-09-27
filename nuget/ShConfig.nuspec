@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Package</id>
+    <version>1.0.0</version>
+    <authors>Ivan Chensky</authors>
+    <owners>Ivan Chensky</owners>
+    <licenseUrl>https://github.com/ichensky/ShConfig/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/ichensky/ShConfig</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Read sh config from C#</description>
+    <releaseNotes>Lib for parsing sh config</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>sh</tags>
+  </metadata>
+</package>
