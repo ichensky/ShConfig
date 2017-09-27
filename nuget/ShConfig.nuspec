@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Package</id>
+    <id>ShConfig</id>
     <version>1.0.0</version>
     <authors>Ivan Chensky</authors>
     <owners>Ivan Chensky</owners>
